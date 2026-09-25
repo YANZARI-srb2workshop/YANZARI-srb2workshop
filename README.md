@@ -27,9 +27,9 @@
     </ul>
     <h2>📌Plans</h2>
     <ul>
-        <li><input type="checkbox" disabled=""> finish YTL</li>
-        <li><input type="checkbox" disabled=""> create some libraries for YTL.</li>
-        <li><input type="checkbox" disabled=""> finish Yanzari's Mo Poly.</li>
+        <li><input type="checkbox" disabled="" /> finish YTL</li>
+        <li><input type="checkbox" disabled="" / > create some libraries for YTL.</li>
+        <li><input type="checkbox" disabled="" /> finish Yanzari's Mo Poly.</li>
     </ul>
     <h2>👀Interests</h2>
     <ul>
@@ -40,16 +40,16 @@
     </ul>
     <h2>💻Programming languages ​​I know</h2>
     <ul>
-        <li><input type="checkbox" checked=""> Lua</li>
-        <li><input type="checkbox" checked=""> BLua (SRB2)</li>
-        <li><input type="checkbox" checked=""> BLua (SRB2 Kart)</li>
-        <li><input type="checkbox" disabled=""> BLua (Ring Racers)</li>
-        <li><input type="checkbox" checked=""> Luau (Roblox)</li>
-        <li><input type="checkbox" disabled=""> GLua (Garry's Mod)</li>
-        <li><input type="checkbox" disabled=""> Ruby</li>
-        <li><input type="checkbox" disabled=""> Python</li>
-        <li><input type="checkbox" disabled=""> Kotlin</li>
-        <li><input type="checkbox" disabled=""> Java</li>
+        <li><input type="checkbox" checked="" /> Lua</li>
+        <li><input type="checkbox" checked="" /> BLua (SRB2)</li>
+        <li><input type="checkbox" checked="" /> BLua (SRB2 Kart)</li>
+        <li><input type="checkbox" disabled="" /> BLua (Ring Racers)</li>
+        <li><input type="checkbox" checked="" /> Luau (Roblox)</li>
+        <li><input type="checkbox" disabled="" /> GLua (Garry's Mod)</li>
+        <li><input type="checkbox" disabled="" /> Ruby</li>
+        <li><input type="checkbox" disabled="" /> Python</li>
+        <li><input type="checkbox" disabled="" /> Kotlin</li>
+        <li><input type="checkbox" disabled="" /> Java</li>
     </ul>
     <blockquote>
         <hr />
