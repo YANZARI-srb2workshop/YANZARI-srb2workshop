@@ -17,7 +17,7 @@
         <li>Potato chips</li>
         <li>Ice Cream</li>
         <li>Popsicle</li>
-        <li>Crawfish</li>
+        <li>Crab</li>
         <li>Cookie</li>
     </ul>
     <h2>⏰Pastime</h2>
